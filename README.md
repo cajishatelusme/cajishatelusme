@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cajishatelusme
-- 👀 I’m interested in product management
+- 👀 I’m in product management
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on education projects
 <!---
